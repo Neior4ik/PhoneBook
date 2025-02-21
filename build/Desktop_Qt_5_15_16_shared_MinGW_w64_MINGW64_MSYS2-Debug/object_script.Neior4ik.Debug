@@ -1,0 +1,17 @@
+debug/main.o
+debug/mainwindow.o
+debug/phonebook.o
+debug/contact.o
+debug/contactdialog.o
+debug/databasemanager.o
+debug/phonenumber.o
+debug/phonewidget.o
+debug/filestorage.o
+debug/databasestorage.o
+debug/storagechoicedialog.o
+debug/moc_mainwindow.o
+debug/moc_phonebook.o
+debug/moc_contactdialog.o
+debug/moc_databasemanager.o
+debug/moc_phonewidget.o
+debug/moc_storagechoicedialog.o

@@ -1,0 +1,17 @@
+release/main.o
+release/mainwindow.o
+release/phonebook.o
+release/contact.o
+release/contactdialog.o
+release/databasemanager.o
+release/phonenumber.o
+release/phonewidget.o
+release/filestorage.o
+release/databasestorage.o
+release/storagechoicedialog.o
+release/moc_mainwindow.o
+release/moc_phonebook.o
+release/moc_contactdialog.o
+release/moc_databasemanager.o
+release/moc_phonewidget.o
+release/moc_storagechoicedialog.o
